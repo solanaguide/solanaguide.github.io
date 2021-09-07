@@ -6,7 +6,11 @@
 		<a href="{{ .RelPermalink }}">
 			<div class="card my-1">
 				<div class="card-body py-2">
-					&larr; {{ .Title }}
+					&larr;{{ if isset .Params.Menu.docs "name" }}
+          &larr; {{ .Params.Menu.docs.name }}
+          {{ else }}
+          &larr; {{ .Title }}
+          {{ end }}
 				</div>
 			</div>
 		</a>
@@ -15,7 +19,11 @@
 		<a class="ms-auto" href="{{ .RelPermalink }}">
 			<div class="card my-1">
 				<div class="card-body py-2">
-					{{ .Title }} &rarr;
+          {{ if isset .Params.Menu.docs "name" }}
+          {{ .Params.Menu.docs.name }} &rarr;
+          {{ else }}
+          {{ .Title }} &rarr;
+          {{ end }}
 				</div>
 			</div>
 		</a>
