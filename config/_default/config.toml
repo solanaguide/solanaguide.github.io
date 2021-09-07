@@ -1,4 +1,4 @@
-baseurl = "https://doks.netlify.app/"
+baseurl = "https://solanaguide.github.io/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -80,6 +80,7 @@ rel  = "sitemap"
 
 [permalinks]
   blog = "/blog/:title/"
+  docs = "/:sections[1:]/:title/"
 
 [minify.tdewolff.html]
   keepWhitespace = false
@@ -90,10 +91,22 @@ rel  = "sitemap"
     min = "0.80.0"
     max = ""
   [[module.mounts]]
-    source = "assets"
-    target = "assets"
+    source = "node_modules/@hyas/doks/archetypes"
+    target = "archetypes"
   [[module.mounts]]
-    source = "static"
+    source = "node_modules/@hyas/doks/assets"
+    target = "assets"
+#  [[module.mounts]]
+#    source = "node_modules/@hyas/doks/content"
+#    target = "content"
+  [[module.mounts]]
+    source = "node_modules/@hyas/doks/data"
+    target = "data"
+#  [[module.mounts]]
+#    source = "node_modules/@hyas/doks/layouts"
+#    target = "layouts"
+  [[module.mounts]]
+    source = "node_modules/@hyas/doks/static"
     target = "static"
   [[module.mounts]]
     source = "node_modules/flexsearch"
@@ -102,5 +115,20 @@ rel  = "sitemap"
     source = "node_modules/katex"
     target = "assets/js/vendor/katex"
   [[module.mounts]]
-    source = "node_modules/mermaid"
-    target = "assets/js/vendor/mermaid"
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "archetypes"
+    target = "archetypes"
+  [[module.mounts]]
+    source = "data"
+    target = "data"
