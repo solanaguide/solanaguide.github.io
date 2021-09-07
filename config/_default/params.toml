@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Solana Staking Guide"
+title = "How To Stake On Solana: Crypto Staking Guide"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "solanaguide.github.io"
+description = ""
 
 ## Open Graph
 #images = ["doks.png"]
