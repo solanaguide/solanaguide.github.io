@@ -24,6 +24,17 @@
     {{ partial "footer/footer.html" . }}
     {{ partial "footer/script-footer.html" . }}
 <script defer data-domain="solanaguide.github.io" src="https://plausible.io/js/plausible.js"></script>
+<script>
+  if (typeof document.getElementById('vue-app') === 'object') {
 
+    new window.Vue({
+      el: '#app',
+
+      components: {
+        'calculator': window.httpVueLoader('/js/calculator.vue')
+      },
+    })
+  }
+</script>
   </body>
 </html>

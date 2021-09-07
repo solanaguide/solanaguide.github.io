@@ -1,7 +1,7 @@
 ---
 seotitle: "Choosing The Best Solana Staking Validator Pool To Stake On"
 title: "Find The Best Solana Validator"
-description: "Doks comes with commands for common tasks."
+description: "Our guide to choosing a validator to stake with. It's not as simple as you think!"
 lead: "Are you looking to find the best validator to stake your Solana on for maximum crypto rewards?
 
        Wallets such as Phantom have made selecting a validation pool as simple as two clicks of your mouse. But it pays to spend a bit more time thinking about where to delegate your stake.
