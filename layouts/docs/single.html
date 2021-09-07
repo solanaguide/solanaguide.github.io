@@ -31,8 +31,13 @@
 				{{ partial "sidebar/docs-toc.html" . }}
 			</nav>
 			{{ end -}}
-			{{ partial "main/headline-hash.html" .Content }}
-			{{ if .Site.Params.editPage -}}
+      {{ if .Params.calc -}}
+      <div id="app">
+        <calculator></calculator>
+      </div>
+      {{ end -}}
+      {{ partial "main/headline-hash.html" .Content }}
+      {{ if .Site.Params.editPage -}}
 				{{ partial "main/edit-page.html" . }}
 			{{ end -}}
 			{{ if not .Site.Params.options.collapsibleSidebar -}}
