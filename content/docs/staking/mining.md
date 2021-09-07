@@ -1,5 +1,5 @@
 ---
-title: "Solana Coin Mining Guide: Profitability, Rewards _ Hardware"
+title: "Solana Coin Mining Guide: Profitability, Rewards & Hardware"
 description: "Want to mine Solana? It doesn't quite work like that! But you may want to try staking"
 lead: "Many people assume that like Bitcoin, Solana can be mined to earn coins. As a Proof of stake coin that's not possible, but there are two other ways you could earn Solana you may be interested in"
 date: 2020-11-16T13:59:39+01:00
