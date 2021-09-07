@@ -10,7 +10,7 @@ menu:
   docs:
     parent: "Staking"
     name: "Staking Rewards Calculator"
-weight: 110
+weight: 105
 toc: true
 calc: true
 ---
