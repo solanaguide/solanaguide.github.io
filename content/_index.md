@@ -1,5 +1,5 @@
 ---
-title: "Solana Crypto Staking Guides"
+title: "Guide to staking on Solana"
 description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 lead: "Learn how you can earn rewards on your crypto assets by staking them on the Solana network, with returns of up to 8%."
 date: 2020-10-06T08:48:57+00:00
