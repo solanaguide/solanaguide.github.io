@@ -14,6 +14,33 @@ weight: 110
 toc: true
 ---
 
+
+<div class="alert alert-warning" icon="💡">
+  <div class="p-3 text-center">
+
+### Today's Recommended Validator: <a href='https://ecostake.one' target=_blank onclick="plausible('Validator Link')">EcoStake.one</a>
+
+Vote account:
+
+<div onclick="plausible('Vote Account')">
+
+```bash
+GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe
+```
+
+</div>
+
+We're trying to highlight quality smaller validators where you can get good returns while helping decentralize Solana.
+We like Ecostake, because:
+
+- It donates its rewards to climate change
+- It charges just 3% commission
+- Low stake and datacentre concentration
+
+  </div>
+</div>
+
+
 ## How much do validators make?
 
 With over a thousand Solana validators operating at present there is a huge range in earnings, with many of the validators running at a loss, while some of the largest could be making profits in the millions each year.

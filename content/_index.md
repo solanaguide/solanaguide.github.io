@@ -24,6 +24,33 @@ Currently those rewards equate to a roughly 8% APY annual income on staked coins
 
 ----
 
+<div class="alert alert-warning" icon="💡">
+  <div class="p-3 text-center">
+
+### Today's Recommended Validator: <a href='https://ecostake.one' target=_blank onclick="plausible('Validator Link')">EcoStake.one</a>
+
+Vote account:
+
+<div onclick="plausible('Vote Account')">
+
+```bash
+GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe
+```
+
+</div>
+
+We're trying to highlight quality smaller validators where you can get good returns while helping decentralize Solana.
+We like Ecostake, because:
+
+- It donates its rewards to climate change
+- It charges just 3% commission
+- Low stake and datacentre concentration
+
+  </div>
+</div>
+
+----
+
 
 ## How does solana staking work?
 

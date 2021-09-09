@@ -19,6 +19,34 @@ weight: 105
 toc: true
 ---
 
+
+<div class="alert alert-warning" icon="💡">
+  <div class="p-3 text-center">
+
+### Today's Recommended Validator: <a href='https://ecostake.one' target=_blank onclick="plausible('Validator Link')">EcoStake.one</a>
+
+Vote account:
+
+<div onclick="plausible('Vote Account')">
+
+```bash
+GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe
+```
+
+</div>
+
+We're trying to highlight quality smaller validators where you can get good returns while helping decentralize Solana.
+We like Ecostake, because:
+
+- It donates its rewards to climate change
+- It charges just 3% commission
+- Low stake and datacentre concentration
+
+  </div>
+</div>
+
+---
+
 ## How to choose a platform to stake your Solana: the 3 key factors to consider
 
 ### 1.  The size of the validator's total stake (big isn't beautiful!)
