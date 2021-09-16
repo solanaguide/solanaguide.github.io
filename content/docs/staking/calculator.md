@@ -18,27 +18,25 @@ calc: true
 
 <div class="alert alert-warning" icon="💡">
   <div class="p-3 text-center">
-
-### Today's Recommended Validator: <a href='https://ecostake.one' target=_blank onclick="plausible('Validator Link')">EcoStake.one</a>
+### Today's Recommended Validator: <a href='https://laine.co.za/solana?utm_source=solanaguide' target=_blank onclick="plausible('Validator Link')">Laine</a>
 
 Vote account:
 
 <div onclick="plausible('Vote Account')">
 
 ```bash
-GREENr9zSeapgunqdMeTg8MCh2cDDn2y3py1mBGUzJYe
+GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL
 ```
 
 </div>
 
 We're trying to highlight quality smaller validators where you can get good returns while helping decentralize Solana.
-We like Ecostake, because:
+We like Laine, because:
 
-- It donates its rewards to climate change
-- It charges just 3% commission
-- Low stake and datacentre concentration
-
-  </div>
+- It offers 0% commission
+- Consistently top APY on StakeView.app
+- Proactive and resourceful operator during Solana's recent halt
+</div>
 </div>
 
 ---
