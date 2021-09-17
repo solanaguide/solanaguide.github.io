@@ -8,7 +8,7 @@ lead: "Are you looking to find the best validator to stake your Solana on for ma
 
        While Solana's built in security means there are no worries about losing your stake by making the wrong choice, your decision can have a surprising impact on the annual returns (APY) or yield you earn from your stake and even the overall network health!"
 date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
+lastmod: 2021-09-17T23:18:00.00+00:00
 draft: false
 images: []
 menu:

@@ -3,7 +3,7 @@ title: "Why is Solana's price and popularity going up? Should I invest?'"
 description: "Since Solana can boldly compete with Ethereum, it’s worth considering as a solid investment in 2021."
 lead: "Since Solana can boldly compete with Ethereum, it’s worth considering as a solid investment in 2021."
 date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+lastmod: 2021-09-17T23:18:00.00+00:00
 draft: false
 images: []
 weight: 106

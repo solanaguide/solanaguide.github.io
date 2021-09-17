@@ -3,7 +3,7 @@ title: "Why Are Solana's 'Gas' Fees For Transactions So Low?"
 description: "Transaction fees vary between coins, depending on two key factors: the time required to generate new blocks on the blockchain and the number of transactions that a single block can handle."
 lead: "Transaction fees vary between coins, depending on two key factors: the time required to generate new blocks on the blockchain and the number of transactions that a single block can handle."
 date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+lastmod: 2021-09-17T23:18:00.00+00:00
 draft: false
 images: []
 weight: 105

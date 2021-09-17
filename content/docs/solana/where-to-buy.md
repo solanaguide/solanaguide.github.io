@@ -3,7 +3,7 @@ title: "Where to buy Solana: How to invest on an exchange or DEX"
 description: "Solana is one of the fastest and most functional web-scale projects that leverage the features of programmable blockchain technology to deliver Decentralized Finance (DeFi) solutions. Read on to learn why this cryptocurrency is making waves"
 lead: "Solana is one of the fastest and most functional web-scale projects that leverage the features of programmable blockchain technology to deliver Decentralized Finance (DeFi) solutions."
 date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+lastmod: 2021-09-17T23:18:00.00+00:00
 draft: false
 images: []
 weight: 105

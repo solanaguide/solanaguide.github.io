@@ -3,7 +3,7 @@ title: "What makes Solana Unique? How Is it different to Ethereum?"
 description: "One of the most exciting features of Solana is its speed and scalability. It is one of the few protocols that boast over 1000 TPS because of its genuine web-scale blockchain features. "
 lead: "One of the most exciting features of Solana is its speed and scalability. It is one of the few protocols that boast over 1000 TPS because of its genuine web-scale blockchain features."
 date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+lastmod: 2021-09-17T23:18:00.00+00:00
 draft: false
 images: []
 weight: 102

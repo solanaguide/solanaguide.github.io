@@ -3,7 +3,7 @@ title: "Will Solana Replace Ethereum?"
 description: "Solana is one of the prime platforms for developing decentralized finance (DeFI) and NFT launches, which are one of the most successful crypto investments currently. Could it take ETH's throne?"
 lead: "Solana is one of the prime platforms for developing decentralized finance (DeFI) and NFT launches, which are one of the most successful crypto investments currently. Could it take ETH's throne?"
 date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+lastmod: 2021-09-17T23:18:00.00+00:00
 draft: false
 images: []
 weight: 120

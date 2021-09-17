@@ -3,7 +3,7 @@ title : "Staking On Solana: How To Stake Your Sol + Earn APY Rewards"
 description: "Learn how you can earn rewards on your crypto assets by staking them on the Solana network,"
 lead: "Learn how you can earn rewards on your crypto assets by staking them on the Solana network,"
 date: 2020-10-06T08:48:45+00:00
-lastmod: 2020-10-06T08:48:45+00:00
+lastmod: 2021-09-17T23:18:00.00+00:00
 draft: false
 toc: true
 menu:
