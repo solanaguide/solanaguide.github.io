@@ -73,7 +73,7 @@ So our recommendation is as follows:
 - Support some of the smaller operators to grow their stake and further decentralize the network
 - Or spread your stake out across multiple small operators to decentralize even more
 
-### 2. The amount of commission the validator charges
+### 2. The amount of commission the validator charges in fees
 
 Every validator earns rewards from Solana based on the size of stake they hold. These rewards are then passed to the stake owners, minus a fee that is set by the validator itself.
 
@@ -129,7 +129,7 @@ Exploring this site today* brings up some interesting numbers:
 
 So as you can see, an unreliable validator could drag your rewards down to half what you expect - or worse.
 
-## Where to find the top validators
+## Where to find the top validators with the best rewards & APY
 
 As you can see, there is a lot to weigh up that some lists of validators such as the frequently recommended [solanabeach.io](http://solanabeach.io) simply don't show.
 
@@ -144,3 +144,34 @@ They take a different approach: StakeView focuses on raw returns, factoring in p
 - Do they already hold too much stake?
 
 Both tools are great resources for weighing up the pros and cons of each validator, and we recommend exploring both as you make your choice.
+
+## Are there any fees for depositing or withdrawing your stake from a validator?
+
+No, there are no 'withdrawl' or 'deposit' fees. In fact you never 'deposit' your stake - unlike a bank deposit your stake remains in your position, and cannot be touched by the validator.
+
+Your stake is effectively a 'vote' that you trust the validator to confirm transactions on the network, rather than a deposit. By spreading the vote across a wide number of validators it ensures there is no risk of foul play in the system.
+
+Do note that while there are no transaction fees on staking directly with a validator, it is possible that some independent 'stake pools' might have a different set of rules and fee schedules.
+
+## How long is my stake 'locked up' for at a validator?
+
+As you are paid rewards based on the funds you have staked during an epoch, during that epoch (a period of roughly 2.5 days) you cannot withdraw your stake.
+
+In practice, the timescale from staking, to earning rewards, to unstaking can vary depending on when in an epoch you instruct a validator.
+
+For example:
+
+1. When you first delegate a stake to a validator you must wait for it to become active. This happens at the end of the current epoch. Given an epoch is ~2.5 days long, depending on when you stake it may take 2 days, 2 hours or just 20 minutes for your stake to become active.
+
+2. Once your stake is active it will begin earning rewards each epoch.
+
+3. Should you wish to withdraw your stake, you must first undelegate it. Just as when you delegate it, the instruction is handled at the end of the epoch. If the epoch is about to end this may be minutes or hours away, however if you 'undelegate' at the very start of an epoch it may take almost 3 days to undelegate.
+
+4. Once you have undelegated your stake and the epoch has ended, you can then withdraw it back to your wallet, or re delegate it with another validator or stake pool.
+
+
+## How many validators are there on the Solana netowrk?
+
+At the time of writing there are over 1,000 active validators on the Solana network, which helps keep the network decentralized and censorship-free.
+
+Less ideal though, is the fact that more than 33% of the total stake delegated to validators goes to the top 19 operators. To help keep the Solana ecosystem healthy, please endeavor to place  your stake with any of the excellent smaller operators and not the first one your wallet or exchange lists (👀 Phantom Wallet, Binance, Coinbase + Kraken)
