@@ -16,8 +16,9 @@ toc: true
 
 
 <div class="alert alert-warning" icon="💡">
-  <div class="p-3 text-center">
-### Today's Recommended Validator: <a href='https://laine.co.za/solana?utm_source=solanaguide' target=_blank onclick="plausible('Validator Link')">Laine</a>
+    <div class="p-3 text-center">
+
+### Recommended Validator: <a href='https://laine.co.za/solana?utm_source=solanaguide' target=_blank onclick="plausible('Validator Link')">Laine</a>
 
 Vote account:
 
@@ -29,13 +30,15 @@ GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL
 
 </div>
 
-We're trying to highlight quality smaller validators where you can get good returns while helping decentralize Solana.
+We're highlighting quality smaller validators where you can get great returns while helping decentralize Solana.
 We like Laine, because:
 
-- It offers 0% commission
-- Consistently top APY on StakeView.app
-- Proactive and resourceful operator during Solana's recent halt
-</div>
+- They charge 0% commission - more APY!
+- One of the highest returns of all Solana validators
+- Proactive and resourceful operator in Solana's discord
+
+  </div>
+
 </div>
 
 
