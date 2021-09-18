@@ -43,7 +43,7 @@ We like Laine, because:
 
 With over a thousand Solana validators operating at present there is a huge range in earnings, with many of the validators running at a loss, while some of the largest could be making profits in the millions each year.
 
-Aside from hosting costs - which can run to the tens of thousands of dollars annually - Solana validators must pay to be eligible to vote. This means a fixed cost of roughly 3 SOL every epoch (2-3 days), which at the time of writing equals costs of $200 - $250 **every single day.**
+Aside from hosting costs - which can run to the tens of thousands of dollars annually - Solana validators must pay to be eligible to vote. This means a fixed cost of roughly 3 SOL every epoch (2-3 days), which at the time of writing equals costs of ~$150 **every single day.**
 
 In exchange, a validator earns revenue in two ways:
 
@@ -64,7 +64,9 @@ Yet in the same period it would need to **pay** 134*3 = 402 SOL to the network t
 
 This means any validator with less than 50,000 in stake from other parties is running at a loss, and likely hoping to grow their delegated stake before it becomes unsustainable. Presently there are 132 validators losing money on the network out of 1,002 total validators
 
-Of course this calculation doesn't account for the staked amount the validator actually owns, as they will receive 100% of the rewards. So while 50,000 SOL is the breakeven point for a validator charging 10% commission, a validator needs to own 'just' 5000 SOL staked to its own network to break even. At current rates that is still around $1m worth of SOL, which few of us have sat around waiting to invest.
+Of course this calculation doesn't account for the staked amount the validator actually owns, as they will receive 100% of the rewards. So while 50,000 SOL is the breakeven point for a validator charging 10% commission, a validator needs to own 'just' 5000 SOL staked to its own network to break even. At current rates that is still around $750k worth of SOL, which few of us have sat around waiting to invest.
+
+Instead, most validators will need to focus on marketing their validator, just like any other business startup. If they can hustle to attract stake to their validator then they can build a sustainable business, but they must be prepared to spend SOL in the short term until their stake grows to a sustainable level.
 
 On the flip side, the validators at the top of the list are earning handsomely. The top validation network by size of stake is Chrous One, which currently has roughly 15 million SOL staked to its validator and charges a fee of 8%.
 
