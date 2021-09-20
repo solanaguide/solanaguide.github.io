@@ -1,5 +1,5 @@
 ---
-title: "Solan's History: When Was SOL launched?"
+title: "Solana's History: When Was SOL launched?"
 description: "Solana is one of the fastest and most functional web-scale projects that leverage the features of programmable blockchain technology to deliver Decentralized Finance (DeFi) solutions. Read on to learn why this cryptocurrency is making waves"
 lead: "Solana is one of the fastest and most functional web-scale projects that leverage the features of programmable blockchain technology to deliver Decentralized Finance (DeFi) solutions."
 date: 2020-10-06T08:48:57+00:00
