@@ -7,37 +7,37 @@ titleAddition = "Your Guide To The Fastest Cryptocurrency"
 description = ""
 
 ## Open Graph
-#images = ["doks.png"]
-#ogLocale = "en_US"
-#domainTLD = "doks.netlify.app"
-#titleHome = "Doks Theme"
+images = ["solanaguide.png"]
+ogLocale = "en_US"
+domainTLD = "solanaguide.github.io"
+titleHome = "Solana Guide"
 
 ## Twitter Cards
-#twitterSite = "@getdoks"
-#twitterCreator = "@henkverlinde"
+twitterSite = "@solanaguide"
+twitterCreator = "@solanaguide"
 
 ## JSON-LD
 # schemaType = "Person"
-#schemaType = "Organization"
-#schemaName = "Doks"
-#schemaAuthor = "Henk Verlinde"
-#schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+schemaType = "Organization"
+schemaName = "Solana Guide"
+schemaAuthor = "Guido De Solana"
+schemaAuthorTwitter = "https://twitter.com/solanaguide"
 #schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-#schemaAuthorGitHub = "https://github.com/h-enk"
-#schemaLocale = "en-US"
-#schemaLogo = "logo-doks.png"
-#schemaLogoWidth = 512
-#schemaLogoHeight = 512
-#schemaImage = "doks.png"
-#schemaImageWidth = 1280
-#schemaImageHeight = 640
-#schemaTwitter = "https://twitter.com/getdoks"
+schemaAuthorGitHub = "https://github.com/solanaguide"
+schemaLocale = "en-US"
+schemaLogo = "solanaguide.png"
+schemaLogoWidth = 400
+schemaLogoHeight = 400
+schemaImage = "solanaguide.png"
+schemaImageWidth = 400
+schemaImageHeight = 400
+schemaTwitter = "https://twitter.com/solaanguide"
 #schemaLinkedIn = ""
-#schemaGitHub = "https://github.com/h-enk/doks"
-#chemaSection = "blog"
+schemaGitHub = "https://github.com/solanaguide/solanaguide.github.op"
+#schemaSection = "blog"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = false
+siteLinksSearchBox = true
 
 ## Chrome Browser
 themeColor = "#fff"
@@ -69,7 +69,7 @@ editPage = false
   lazySizes = true
   clipBoard = true
   instantPage = true
-  flexSearch = true
+  flexSearch = false
   darkMode = true
   bootStrapJs = true
   breadCrumb = false
