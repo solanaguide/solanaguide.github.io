@@ -9,7 +9,7 @@ weight: 106
 toc: true
 menu:
   docs:
-    parent: "Solana"
+    parent: "Solana Ecosystem"
     name: "Solana's Best Projects: Dapps, Defi & NFTs"
 ---
 
